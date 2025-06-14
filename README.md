@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shrooq Sayed Ghanem
--  I'm Backend .NET software engineer 👩🏻‍💻
+-  I'm a Fullstack .NET software engineer 👩🏻‍💻
 - 👀 I’m interested in Software Developing 💻
 - 📫 reach me via Email: shrooqghanem96@gmail.com
 - ⚡ Fun fact: I'm in Love with piano & Learning Languages 🎹❤
